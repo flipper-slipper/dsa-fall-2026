@@ -1,0 +1,6 @@
+[workspace]
+resolver = "3"
+members = [
+"hello-world/meeting-scheduler/",
+"hello-world/porting-code/",
+]
