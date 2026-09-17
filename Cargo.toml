@@ -2,5 +2,5 @@
 resolver = "3"
 members = [
 "hello-world/meeting-scheduler/",
-"hello-world/porting-code/",
+"hello-world/porting-code/", "linked-data-structures",
 ]
