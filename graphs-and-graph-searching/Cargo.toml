@@ -1,0 +1,6 @@
+[package]
+name = "graphs-and-graph-searching"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
