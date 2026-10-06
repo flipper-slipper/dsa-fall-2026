@@ -3,5 +3,5 @@ resolver = "3"
 members = [
 "hello-world/meeting-scheduler/",
 "hello-world/porting-code/", "linked-data-structures",
-"graphs-and-graph-searching",
+"graphs-and-graph-searching", "sorting-algorithms",
 ]
